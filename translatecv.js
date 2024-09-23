@@ -51,7 +51,7 @@ var dict = {
                   <strong style="color: var(--main-color)">Chat App</strong>
                 </a>
               </h4>
-              <p>Sep.2024</p>
+              <p>Aug.2024</p>
             </div>
             <ul style="list-style-type: circle; padding-left: 30px">
               <li style="margin-left: 10px">
@@ -70,7 +70,7 @@ var dict = {
               <h4>
                 <strong style="color: var(--main-color)">FreshCart</strong>
               </h4>
-              <p>Sep.2024</p>
+              <p>Jun.2024</p>
             </div>
             <ul style="list-style-type: circle; padding-left: 30px">
               <li style="margin-left: 10px">
@@ -123,7 +123,7 @@ var dict = {
           Beni-Suef Universität - 
           <small>(Bachelor in Computer und Künstlicher Intelligenz)</small>
         </h3>
-        <p>Sep. 2018 - Mai. 2022</p>
+        <p>Sep.2018 - Mai.2022</p>
         </div>
         <p><strong>Hauptfach:</strong> (IT)</p>
         <p><strong>Gesamtnote:</strong> Sehr gut</p>`,
@@ -135,7 +135,7 @@ var dict = {
             Store Business Center - Freiberuflich
             <small>(Lagerverwaltungsanwendung)</small>
           </h3>
-          <p>Sep. 2024 - Okt. 2024</p>
+          <p>Sep.2024 - Okt.2024</p>
         </div>
         <ul>
           <li>
@@ -157,7 +157,7 @@ var dict = {
                 <strong style="color: var(--main-color)">Chat-App</strong>
               </a>
             </h4>
-            <p>Sep. 2024</p>
+            <p>Aug.2024</p>
           </div>
           <ul style="list-style-type: circle; padding-left: 30px">
             <li style="margin-left: 10px">
@@ -176,7 +176,7 @@ var dict = {
             <h4>
               <strong style="color: var(--main-color)">FreshCart</strong>
             </h4>
-            <p>Sep. 2024</p>
+            <p>Jun.2024</p>
           </div>
           <ul style="list-style-type: circle; padding-left: 30px">
             <li style="margin-left: 10px">
