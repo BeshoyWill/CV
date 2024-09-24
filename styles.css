@@ -361,6 +361,10 @@ a:hover {
     font-size: 0.6rem; /* Slightly smaller font size */
   }
 
+  body header p {
+    padding-top: 15px;
+  }
+
   body.de {
     font-size: 0.6em;
     margin-block: 0;
